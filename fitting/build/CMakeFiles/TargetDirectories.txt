@@ -1,0 +1,3 @@
+/home/parker/Desktop/MyCode/fitting/build/CMakeFiles/fit.dir
+/home/parker/Desktop/MyCode/fitting/build/CMakeFiles/edit_cache.dir
+/home/parker/Desktop/MyCode/fitting/build/CMakeFiles/rebuild_cache.dir
